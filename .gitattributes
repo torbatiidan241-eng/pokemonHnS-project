@@ -1,2 +1,6 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*.pal binary
+*.gbapal binary
+*.png binary
+*.4bpp binary
+*.8bpp binary
+*.lz binary
